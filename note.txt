@@ -1,0 +1,30 @@
+
+3:46: 00
+
+add img link
+  sidebar.js
+  header.js
+
+
+
+
+
+npx create-react-app linkedin-clone --template redux
+
+firestore : 8:00
+
+
+deleted from fire store
+
+ allow read, write: if
+          request.time < timestamp.date(2021, 4, 7);
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBNTqNq0OER7zZSz90ztKBB_hG9H_dDccE",
+  authDomain: "linkedin-clone-by-jb.firebaseapp.com",
+  projectId: "linkedin-clone-by-jb",
+  storageBucket: "linkedin-clone-by-jb.appspot.com",
+  messagingSenderId: "750355749622",
+  appId: "1:750355749622:web:7290aaf0a138989db4aad7"
+};          
